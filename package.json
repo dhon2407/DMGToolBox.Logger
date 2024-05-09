@@ -1,5 +1,5 @@
 ﻿{
-  "name": "com.dmgtoolbox.savedata",
+  "name": "com.dmgtoolbox.logger",
   "displayName": "Custom logger package",
   "version": "1.0.0",
   "unity": "2022.3",
